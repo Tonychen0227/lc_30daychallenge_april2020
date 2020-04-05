@@ -1,7 +1,7 @@
 class Solution {
 public:
-    // O(inf) runtime at worst due to infinite loop
-    // O(1) memory
+    // O(inf) Time: At worst due to infinite loop
+    // O(1) Memory
     // Returns "Happiness"
     int sumNum(int n) {
         int sum = 0;
